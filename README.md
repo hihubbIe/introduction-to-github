@@ -142,7 +142,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
 <details id=3>
 <summary><h2>Step 3: Upload test reports</h2></summary>
 
-_The workflow has finished running! :sparkles:_
+The workflow has finished running! :sparkles:
 
 So what do we do when we need the work product of one job in another? We can use the built-in [artifact storage](https://docs.github.com/en/actions/advanced-guides/storing-workflow-data-as-artifacts) to save artifacts created from one job to be used in another job within the same workflow.
 
